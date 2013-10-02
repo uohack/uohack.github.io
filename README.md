@@ -1,4 +1,4 @@
-uohack.github.io
+uohack
 ================
 
-uohack.com
+Teachin' code
