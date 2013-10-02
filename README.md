@@ -1,4 +1,0 @@
-uohack
-================
-
-Teachin' code
