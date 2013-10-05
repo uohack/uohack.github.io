@@ -10,14 +10,11 @@ title: Week 1 | uohack
   - (I recommend making your usename your first and last name, all downcase. Mine is 'ivarvong')
   - Confirm the GitHub email
 
+- Request to join [the private Facebook group](https://www.facebook.com/groups/576874269016205/)
 
-- Join the private Facebook group
-  - here's the link: XXXXXXXX
-  - you might have to friend me. I'm http://facebook.com/ivarvong
+- Our hashtag is ***#uohack*** on Instagram and [Twitter](https://twitter.com/search?q=%23uohack&src=typd&f=realtime)
 
-- Our hashtag shall be ***#uohack*** on Instagram and Twitter
-
-### Your first web page
+### Make your first web page 
 
 - Create a new GitHub repo with the "+" button in the top-right corner. 
 - The repo name will be your usename, followed by .github.io. 
