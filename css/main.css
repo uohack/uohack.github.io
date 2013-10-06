@@ -32,6 +32,11 @@ body {
   text-decoration: none;
 }
 
+.logo {
+  margin-bottom: 7px;
+  margin-right: 6px;
+}
+
 /* Custom page footer */
 .footer {
   padding-top: 19px;
