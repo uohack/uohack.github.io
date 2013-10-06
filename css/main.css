@@ -24,8 +24,6 @@ body {
 .header h3 a {
   line-height: 40px;
   padding-bottom: 19px;
-  font-family: "Lato";
-  color: #006dcc;
   color: #5cb85c;
 }
 .header h3 a:hover {
