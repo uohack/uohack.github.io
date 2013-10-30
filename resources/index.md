@@ -15,6 +15,8 @@ title: Resources | uohack
 
 - [jsfiddle](http://jsfiddle.net/) &mdash; Share and edit small bits of code.
 
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference?redirectlocale=en-US&redirectslug=CSS%2FCSS_Reference)
+
 - [GitHub for Mac](http://mac.github.com/) &mdash; Work on files locally (with Sublime!), push them to GitHub.
 
 - [Code with me's Resources](http://codewithme.us/portland/resources.html) 
