@@ -33,7 +33,7 @@ body {
 .logo {
   margin-bottom: 7px;
   margin-right: 6px;
-  max-width: 150px;
+  max-width: 100px;
 }
 
 /* Custom page footer */
@@ -93,6 +93,6 @@ body {
     border-bottom: 0;
   }
   .logo{
-    max-width: 300px;
+    max-width: 150px;
   }
 }
