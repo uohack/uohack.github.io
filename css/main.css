@@ -33,7 +33,7 @@ body {
 .logo {
   margin-bottom: 7px;
   margin-right: 6px;
-  max-width: 100px;
+  max-width: 150px;
 }
 
 /* Custom page footer */
@@ -91,5 +91,8 @@ body {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+  }
+  .logo{
+    max-width: 300px;
   }
 }
