@@ -33,6 +33,7 @@ body {
 .logo {
   margin-bottom: 7px;
   margin-right: 6px;
+  max-width: 100px;
 }
 
 /* Custom page footer */
@@ -68,6 +69,10 @@ body {
 }
 .marketing p + h4 {
   margin-top: 28px;
+}
+
+.hidden{
+  visibility: hidden;
 }
 
 /* Responsive: Portrait tablets and up */
