@@ -1,0 +1,109 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+img{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.hidden{
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 600px;
+    padding: 10px;
+}
+
+section{
+    width: 100%;
+}
+
+#intro{
+    background-color: #5cb85b;
+    text-align: center;
+}
+#intro img{
+    margin: 0 auto;
+    width: 80%;
+    max-width: 400px;
+}
+
+#intro .buttons{
+    width: 60%;
+    margin: 20px auto;
+    overflow: hidden;
+}
+#intro .button{
+    float: left;
+    width: 33%;
+}
+#intro .button a{
+    color: white;
+    font-size: 42px;
+    -webkit-transition: color 300ms ease;
+    -moz-transition: color 300ms ease;
+    -o-transition: color 300ms ease;
+    transition: color 300ms ease;
+}
+
+#intro .twitter a:hover,
+#intro .twitter a:active{
+    color: #1ea1f3;
+}
+#intro .github a:hover,
+#intro .github a:active{
+    color: #000;
+}
+#intro .email a:hover,
+#intro .email a:active{
+    color: #d74a38;
+}
+
+#about{
+    line-height: 1.7em;
+}
+#about h2{
+    margin-bottom: 0;
+}
+#about a,
+#about a:visited{
+    text-decoration: none;
+    color: #5cb85b;
+    border-bottom: 2px solid #5cb85b;
+}
+#about a:hover,
+#about a:active{
+    text-decoration: none;
+    color: #47a447;
+    border-bottom: 3px solid #47a447;
+}
+#about .more{
+    padding: 0 20px;
+    line-height: 1.3em;
+}
+#about ul{
+    list-style: none;
+    margin: 0 auto;
+    padding: 0 30px;
+    max-width: 400px;
+    border-left: 2px solid #000;
+}
+#about ul li{
+    padding: 10px 0;
+}
+#about ul li:not(:last-child){
+    border-bottom: 2px solid #eee;
+}
+#about img{
+    max-width: 400px;
+    margin: 0 auto;
+}
