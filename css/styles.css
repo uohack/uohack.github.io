@@ -27,6 +27,25 @@ section{
     width: 100%;
 }
 
+#tease{
+    background-color: #f4d11a;
+    text-align: center;
+}
+#tease h3{
+    margin: 0;
+    padding: 10px;
+    font-size: 1em;
+}
+#tease h3 a,
+#tease h3 a:visited{
+    color: #fff;
+    text-decoration: none;
+}
+#tease h3 a:hover,
+#tease h3 a:active{
+    border-bottom: 2px solid #fff;
+}
+
 #intro{
     background-color: #5cb85b;
     text-align: center;
